@@ -1,0 +1,18 @@
+﻿category,canonical_term,variant,helper_only,notes
+agency,PANYNJ,Port Authority of NY & NJ,FALSE,
+agency,PANYNJ,Port Authority,TRUE,Use as search helper when resume says Port Authority only
+agency,NJTA/Turnpike,NJTA,FALSE,
+agency,NJTA/Turnpike,Turnpike Authority,TRUE,Helper synonym
+role,Resident Engineer,REI,FALSE,
+role,Construction Inspection,CI,FALSE,
+role,Construction Engineering Inspection,CEI,FALSE,
+role,Quality Assurance/Quality Control,QA/QC,FALSE,
+role,Construction Management,CM,FALSE,
+credential,Professional Engineer,PE,FALSE,
+credential,NICET,NICET III,FALSE,
+credential,OSHA 30,OSHA-30,FALSE,
+bridge,National Bridge Inspection Standards,NBIS,FALSE,
+bridge,Fracture Critical,FCM,FALSE,
+materials,NACE Coating Inspector,NACE,FALSE,
+transportation,Intelligent Transportation Systems,ITS,FALSE,
+transportation,Guiderail,Guardrail,TRUE,Helper synonym

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Generated outputs
+Resume 08152025/KSE_RESUME_DATABASE/
+*.parquet
+*.jsonl
+~$*
+
+# Exclude large PDS folders
+Completed PDS 09082025/
+Incomplete PDS 09172025/
