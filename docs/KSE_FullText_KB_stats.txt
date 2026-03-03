@@ -1,0 +1,281 @@
+KSE Full-Text KB Stats
+Generated: 2026-03-02 12:52
+Total persons: 273
+File size: 4.8 MB
+Files with no text: 2
+
+Name                                   Chars  Primary File
+----------------------------------------------------------------------------------------------------
+Abdalla Ashraf M                       26490  Master Abdalla Ashraf M.docx
+AbramovV                               11871  AbramovV_Resume_KSE Format.docx
+AbramovY                               12110  Master AbramovY.docx
+AbusokkurS revised                     12029  Master AbusokkurS_revised 8.12.2025.docx
+AdamsJ                                  9242  Master AdamsJ_4.4.23.docx
+AdhikariP                               5725  Master AdhikariP.docx
+AhmadiH                                 3387  AhmadiH_Resume_KSE Format.docx
+AhmedF                                 11366  AhmedF_Resume_KSE.docx
+Ahmed Zubair                           31288  Ahmed Zubair-Quality Manager 05-20-25.docx
+AhujaR                                 18336  AhujaR.docx
+Akhtar Samia                            2757  Master Akhtar Samia.docx
+AlaimoD                                75484  Master AlaimoD.docx
+AldeaM                                  6627  Master AldeaM.docx
+Aleksey Makarov                         5751  Aleksey Makarov_KSE Resume Format _ Insp NII.docx
+Alford Leon                             7416  Master Alford Leon.docx
+Ali Syed FINAL                         11998  Master Ali Syed_FINAL.docx
+Al Jamal, J                            10691  Al-jamal, J - Chief Inspector.docx
+Alvarez HernandezA Resume Special       5724  Alvarez-HernandezA_Resume_Special Inspectn Coordinator_KSE Format.docx
+AmarviS                                 3062  AmarviS Master.docx
+AmouzegarH                             10592  Master_AmouzegarH.docx
+Andria Pipia                           25352  Andria Pipia _ Senior Inspector_062025 updated_Changes Tracked.docx
+Angulo                                 10636  Master Angulo resume.docx
+Anil Verma PE                          10954  Anil Verma PE.docx
+Arun Juttukonda Resume                  3519  Arun Juttukonda Resume_.pdf
+AshrafzadehM                            7942  AshrafzadehM_Resume_KSE Format.docx
+AssisGeorge                           109391  Master AssisGeorge.docx
+AttarA                                 20635  Master AttarA Resume Design Build.docx
+AttarA KSE                             20635  Master AttarA KSE_Resume.docx
+AuguB                                   3698  AuguB KSE Resume.docx
+BaezI                                  13706  MASTER BaezI.docx
+BakerH                                104723  Master BakerH.docx
+BanfieldV                              14559  BanfieldV_KSE Resume.docx
+BernizM                                 3838  BernizM_Resume_KSE Format.docx
+BibaouiR                               12178  00 - Master Resume - BibaouiR.docx
+BillyardJ                               7305  BillyardJ_Resume_KSE Format.docx
+BocchinfusoS                           12199  BocchinfusoS_NJDOT Resume_8.30.23 - Draft.docx
+BocchinfusS                            12892  Master BocchinfusS.docx
+Boris Vays                             23560  Master_Boris Vays - KSE Resume.docx
+BoucherM (Non                           4351  Master BoucherM (Non KSE Version).docx
+BrobergG                               33008  Master BrobergG.docx
+Brown Joseph                           20846  Master Brown Joseph.docx
+BrownR                                 27775  Master BrownR.docx
+Brudi William                          18504  Master Brudi William.docx
+BunyavirochC                           28142  BunyavirochC_Resume_KSE Format.docx
+Burrell R                              43984  Master Burrell R.docx
+C. Dillon   Administrative Documen      3575  C. Dillon-  Administrative-Document Control 5-9-2024.docx
+CarolaC 2023                           23347  MASTER RESUME_CarolaC_2023.docx
+CarrasquilloJ                           5166  MASTER Resume CarrasquilloJ.docx
+CastilloE                              31064  Master CastilloE.docx
+ChakrabortyA                           39850  Master ChakrabortyA.docx
+ChanD                                   9334  Master_ChanD_KSE Resume.docx
+ChandradatL                            35611  ChandradatL_Resume_KSE Format.docx
+Chris Surprenant                       17479  Chris Surprenant Master Resume.docx
+Christopher Hanna                       8968  330 Resume Christopher Hanna 4.24.23 REV.docx
+Cichon Wojciech                        10638  Master Cichon Wojciech.docx
+ClarkeK                                 5119  MASTER Resume ClarkeK.docx
+Cooke N                                 3617  Master Cooke N.docx
+CuffeeM                                 8570  CuffeeM_Resume_KSE Format.docx
+D.Nieto   General Construction          9126  D.Nieto - General Construction Inspector.docx
+DahriehH                                7697  Master DahriehH.docx
+DaneshpourM                             9214  Master DaneshpourM.docx
+DasguptaA                               9105  01 Master DasguptaA.docx
+Deep Patel                              6696  Deep Patel _ KSE Inspector resume.docx
+DeLeonR                                 6689  DeLeonR _ KSE resume.docx
+Diaz Blanco P                           8690  Diaz Blanco P_Resume_KSE Format_WIP.docx
+DiazM                                   6764  DiazM_Resume_KSE Format.docx
+DoshiD                                  3735  Master DoshiD_Resume.docx
+DouglasB                               33462  Master DouglasB.docx
+EngJ                                    4304  EngJ_Resume_KSE Format.docx
+EsguerraA                               2727  EsguerraA_Resume_KSE Format.docx
+EsquilinL                              13913  EsquilinL_Resume_KSE Format.docx
+FangJ                                  10634  FangJ_Resume_KSE Format (Revised).docx
+FattalG                                 6150  FattalG_Resume_KSE Format.docx
+FattalG Resume                          7047  FattalG_Resume_JR. Structural Engineer.docx
+Ferrante Joseph                        15630  KSE Ferrante Joseph TL Resume 10-2024.docx
+FiakosJ                                 9981  02 FiakosJ_Resume_KSE.docx
+Fitzgerald G                           14396  Fitzgerald G._Resume January 2025.docx
+FontanaL                               21859  Master_FontanaL.docx
+Format   Maram K                        3530  KSE Format - Maram K.docx
+FoxH                                   86166  Master FoxH - 05-29-2025.docx
+FregaF                                154788  Master FregaF.docx
+GarciaH                                 5275  GarciaH _ KSE Format resume.docx
+Gerald Trumpf                           8633  Gerald Trumpf _ SI resume.docx
+GhalyM                                 26053  GhalyM - Master - 03.13.25.docx
+Ghasan Mahmud                           4122  Ghasan Mahmud_Resume.docx
+Ghattas Marios                          4117  Ghattas Marios - Junior Engineer.docx
+GilardiA                               23779  Master GilardiA.docx
+GrandhiV                               17783  MASTER GrandhiV.docx
+Grandhi Venkat ATL                     16526  Grandhi Venkat ATL Resume 3-2-2023.docx
+GravesandeD                             8848  04 GravesandeD_Resume_KSE.docx
+Gregg Schatz                            5333  Gregg Schatz Resume.docx
+Gregory Assis                          14136  Gregory Assis Resume Updated.docx
+GreissA                                12542  GreissA_Resume_KSE Format.docx
+GuirguisB                              14344  Master GuirguisB.docx
+Gurvich Michael                        26657  Master Gurvich Michael_Bridge Focus.docx
+HalcrowJ                               46020  Master HalcrowJ  3-23-23.docx
+HallahanK                              14610  HallahanK_Resume_KSE Format.docx
+HannaC                                 40050  HannaC_Resume_KSE Format 2025.docx
+Hariet Dahrieh   CAD Operator           8084  Hariet Dahrieh - CAD Operator.docx
+HarriottT                              15055  20250811_Master HarriottT.docx
+Harris SalahuddinN                      4079  Harris-SalahuddinN_KSE Resume.docx
+HasanR                                  6401  HasanR_KSE Resume.docx
+Hatem Elsissi                          12377  Master_Hatem Elsissi_KSE.docx
+HeppardI                                3891  HeppardI_Resume_KSE Format.docx
+HerrmannJ                              28094  Master HerrmannJ_4.20.23.docx
+IbeC                                    7650  Master IbeC.docx
+Ilia Amir                               3407  Master Ilia Amir.docx
+Ilori Babatunde Ade                     1828  Master Ilori Babatunde Ade.docx
+IslamR                                  7879  Master IslamR.docx
+Jacurak Adam                           42294  Master Jacurak Adam.docx
+JacurakA Resume AirTran                10576  JacurakA_Resume_AirTran TCM - 2 Page (003).docx
+Jaesuk Bae                              5259  Jaesuk Bae _ KSE resume.docx
+Jarod Sims Fall Protection Equipme       235  Jarod Sims_Fall Protection Equipment_02.29.24.pdf
+Jarod Sims Fall Protection for Con       225  Jarod Sims_Fall Protection for Construction_02.29.23.pdf
+Jawad Qureshi                          10074  Master_Jawad Qureshi_KSE Resume.docx
+JeffyC                                  7106  Master JeffyC.docx
+Johnny Zapata                           3395  Master_Johnny Zapata.docx
+Jose Cepin KS                           4441  Master _ Jose Cepin_KS Resume.docx
+Jose M. Taveras KS                     13366  Jose M. Taveras_KS Resume 03142024.docx
+Joseph Ferrante 10 2024 Update         22400  Joseph Ferrante-10-2024 Update.docx
+Jose Rivera KS                         15917  Jose Rivera KS Resume.docx
+Joshua Camburn                          5201  Joshua Camburn - CCL resume.docx
+J Pena   SrCulvertInspector             5862  J Pena - SrCulvertInspector.docx
+JUBIN RAJU                              2919  JUBIN RAJU Resume 2024 -_.pdf
+Junaid Syed QCE (PA & NYS              11224  Junaid Syed QCE (PA & NYS Format).docx
+Justice Abada                           5954  Master_Justice Abada - KSE Resume.docx
+JuttukondaA                             5338  JuttukondaA_KSE Resume-Bridge Inspection.docx
+Kakhaber Tedoradze                      3862  Master_Kakhaber Tedoradze_KSE.docx
+KamalA                                 47229  KamalA_MASTER Resume_Rev05-15-19.docx
+Kamalov Alisher                         3023  Master Kamalov Alisher.docx
+KaratelaM                               6908  Master KaratelaM.docx
+KavaleuskayaN                          13847  Master KavaleuskayaN - 6-18-2024.docx
+KernL                                  78399  Master KernL.docx
+Khan Uneeq   20250103                  21211  Master Khan Uneeq - 20250103.docx
+KheyfetsS                               5586  Master KheyfetsS.docx
+KhotinskiyE                             3798  KhotinskiyE_Resume_KSE Format.docx
+KrasuckiK                               6727  KrasuckiK_Resume_KSE Format_Draft w-KSE Projects.docx
+KSEres Cooke Chelsey 20                13833  KSEres Cooke Chelsey_2025.03.05.docx
+KwasniewskiA                           10927  Master KwasniewskiA.docx
+LafontantA                             11481  Master Resume LafontantA.docx
+Lahdo AbdiS                            18879  Master Lahdo-AbdiS.docx
+LalvayE                                 4472  Master LalvayE.docx
+LaurenceF                              17480  LaurenceF_KSE Master.docx
+LeaN                                    8822  Master LeaN.DOCX
+LechD                                   7880  Master LechD.docx
+LeeC                                   35650  Master LeeC.docx
+LescouflairJ                            7515  Master LescouflairJ_08.13.24.docx
+Lev Stravchinsky                       12264  Lev Stravchinsky _ KSE resume.docx
+LinY                                    9677  Master LinY.docx
+Mahesh Rana                            14585  Mahesh Rana _ master resume.docx
+Mahmoud Hassanein                       5883  Mahmoud Hassanein _ Jr Inspector resume.docx
+Mahmoud Hassanein KS                    3800  Mahmoud Hassanein KS Resume.docx
+Makala Praveen   Final                  3115  Master Makala Praveen - Final.docx
+MakarianR                              13917  Master MakarianR.docx
+ManionK                                19102  ManionK_Resume_KSE Format.docx
+Manish Patel                            7242  Resume - Manish Patel.docx
+ManningP                               11480  ManningP_Resume_KSE Format.docx
+Manuel Perez                           14635  Manuel Perez_KSE Resume (002).docx
+MarchanA AM edit                       32227  Master MarchanA AM edit .docx
+MariyalaS                               3210  MariyalaS_Resume_KSE Format.docx
+Marlon Plaza   Assist. Culvert          2177  Marlon Plaza - Assist. Culvert Inspector (11-2-2023).docx
+Marlon Plaza   Assist. Team Leader      3655  Marlon Plaza - Assist. Team Leader (4-14-2025).docx
+MartinezR                               6489  MartinezR_KSE Resume.docx
+MehtaA                                  6178  Master MehtaA.docx
+MeidhofC                               70271  Master MeidhofC.docx
+MereBarreraA                           11538  KSE Resume - MereBarreraA.docx
+MikaeelM                               39936  Master MikaeelM.docx
+MishraG KS                             12250  MishraG_KS resume.docx
+MolisonS                               39766  MolisonS_Resume_KSE Format (10-19-2023).docx
+MonegroK                                3144  MonegroK_Resume_KSE Format.docx
+MoraisE                                 8174  Master MoraisE.docx
+MoutalH                                15411  Master MoutalH.docx
+Muhammad Idrees                         5270  Muhammad Idrees_KSE Resume.docx
+NajmetdinI                              6909  Master NajmetdinI.docx
+NguyenT                                10331  Master NguyenT.docx
+Nicholas Cooke                          6165  KSE-Nicholas Cooke.docx
+NickleD                                22539  NickleD_Master.docx
+NietoD                                  8593  Master NietoD.docx
+Nilesh Shah                            21257  Nilesh Shah _ KSE resume.docx
+NJDOT Section 4 I 1 Fitzgerald G       24736  NJDOT Section_4_I-1_Fitzgerald G..docx
+NJTA Median Barrier    BocchinfusS     12490  NJTA Median Barrier -  BocchinfusS.docx
+ObiezchykO                              3556  ObiezchykO_Resume_KSE Format.docx
+Ojewumi, O                              4588  Ojewumi, O.docx
+OkechukwuF                             49893  OkechukwuF_Resume_KSE Format.docx
+OlasojiD                                4321  OlasojiD_Resume_KSE Format.docx
+OnyechiC                               25252  Master OnyechiC.docx
+ParkesK                                 8868  ParkesK_Resume_KSE Format.docx
+Pasam Shantanu                          7496  Master Pasam Shantanu.docx
+PasquarelliA                            5808  PasquarelliA_Resume_KSE Format.docx
+PatelA                                  8350  Master PatelA.docx
+Patel Ash                               8462  Patel Ash_Resume_KSE format.docx
+PatelV                                 26112  Master PatelV.docx
+PeaneyJ                                10312  PeaneyJ_Master Resume.docx
+PenaJose                                5258  PenaJose_Resume_KSE Format.docx
+PerlmutterJ                           228018  Master PerlmutterJ.docx
+Pike J Final 071624                     4179  Pike J Final 071624 HM (002).docx
+Pike J Final 071624   Resident          4104  Pike J Final 071624 - Resident Engineer.docx
+PolaS                                  11797  00 MASTER PolaS.docx
+QuinitD                                31437  QuinitD_KSE Resume-Bridge Inspection-rev1.docx
+Quinit Dennis                          14609  Master Quinit Dennis.docx
+Rail                                    4913  Rail Focus - FitzgeraldG - SF 330 Format (fr KSE#25-125).docx
+Ramin Jami                              6184  Ramin Jami _ KSE jr inspector resume.docx
+Ravalika Katta   Final                  3595  Master Ravalika Katta - Final 1-21-25.docx
+RelyeaJ                                 9215  Master RelyeaJ.docx
+Resume MahinayYK                        4166  KSE Resume_MahinayYK.docx
+Rev. Orignial                          26703  Rev. Orignial NJDOT Format Fitzgerald G._Recd.. 3-31-2025.docx
+ReyesL                                  7157  ReyesL_Resume_KSE Format.docx
+Reza Sharif                            23742  Master_Reza Sharif_KSE Format.docx
+Richard Bolander   Commercial          14145  Richard Bolander - Commercial Manager.docx
+RICHARD LOMBARDO                        4186  RICHARD LOMBARDO resume.pdf
+Romeo Cruz                             11424  Master_Romeo Cruz.docx
+RupnarainD                            106662  Master RupnarainD_Rev 24Jul25.docx
+SainiG                                 19206  SainiG _ KSE resume _ Design Manager..docx
+Sanigepalli Srinivas                   12850  Master Sanigepalli Srinivas.docx
+SarehS                                 25804  Master SarehS.docx
+Saul Rolston                           37819  MASTER Saul Rolston.docx
+ScancellaR                            116076  Master ScancellaR.docx
+SchaefferP                             43919  Master SchaefferP.docx
+SchoberH                               11071  SchoberH_Master Resume_KSE Format.docx
+Scott Plant                            24999  Master_Scott Plant KSE Resume.docx
+SedholmK                                2949  KSE Master Resume_SedholmK.docx
+Sedki Ramy                              3197  Master Sedki Ramy.docx
+SedyciasD                              21044  Resume - SedyciasD  - TL.docx
+SenisrisantR                           19030  Master SenisrisantR rev.docx
+SerieuxF                                8552  SerieuxF_Resume_KSE Format.docx
+SF 330                                  5547  SF 330 KSE Resumes - FitzgeraldG - Format.docx
+ShahangianM                            12598  Master ShahangianM.docx
+ShahC                                  41109  Master ShahC.docx
+ShahidK                                54108  MASTER ShahidK.docx
+ShahM                                   2118  Master ShahM.docx
+ShariffR                               84032  Master ShariffR.rtf
+Sharma, Vipul   Cad                     8677  Sharma, Vipul - Cad Designer.docx
+SharmaV                                 9159  Master SharmaV.docx
+Sheppard, Joshua edited                 3424  Sheppard, Joshua_edited.docx
+ShethR                                 13505  Master ShethR.docx
+SinghT                                  5973  Master SinghT.docx
+SkierskiS                              33941  Master SkierskiS.docx
+Soaib Chowdhury                         7163  Soaib Chowdhury Chief Inspector Resume _KSE Master Format.pdf
+Sotomayor,D                             5939  Master Resume Sotomayor,D.docx
+SprauR                                 63983  MASTER SprauR 3-31-2025.docx
+Standard                                8866  Standard Resume Style Guide_Variant Footer.docx
+Suli Vangjel                           10817  Master Suli Vangjel.docx
+SunH                                   34403  Master SunH.docx
+Suraj Shiak                             3603  Suraj Shiak resume.docx
+SyedJ                                  16340  00 KSE Master - SyedJ.docx
+Tapera Samuel                           3420  Master Tapera Samuel.docx
+Tarun Veeragani Resume Oct 2023         5019  Tarun Veeragani Resume_Oct 2023.docx
+TavrasAdrian                            3328  Master TavrasAdrian.docx
+TehraniT                              135796  TehraniT Master - draft.docx
+Torres, J                                854  Torres, J.docx
+Torres M                                7629  Master Torres M.docx
+TorresW                                11995  Master TorresW.docx
+TP 615                                 10069  TP-615-NJDOT Resume-Chet-PM-CVS.docx
+TP 710 Fitzgerald G                    23960  TP-710 Fitzgerald G._CVS rev.docx
+TrumpfG                                 9584  Master TrumpfG.docx
+TylutkiB                               11041  Master TylutkiB.docx
+UllikashiP                            130917  Master UllikashiP.docx
+VeeraganiT                              7202  VeeraganiT KSE resume - 2021-2525-01_11-01-23.docx
+VelasquezE                             12118  11 VelasquezE_Resume_KSE.docx
+VelasquezL                            102463  Master VelasquezL.docx
+VenturaL                                5391  VenturaL_Resume_KSE Format.docx
+VenturaL Resume                         5458  VenturaL_Resume_Jr Inspector_KSE Format.docx
+VillanuevaK                             3786  VillanuevaK KSE Resume 2023.docx
+VillanuevaK Master                      6781  VillanuevaK Master_Rev 250106.docx
+VillaramaV                             10587  Master VillaramaV.docx
+VuT                                     2863  VuT_Resume_KSE Format.docx
+Whitty J                               14449  Whitty J - Master 1-12-2023.docx
+WidingB                                10792  08 - WidingB - CADD.docx
+WilliamsB                               4497  WilliamsB_Resume.docx
+WilsonM                                18700  Master WilsonM.docx
+Ye Jackie                               4860  Master Ye Jackie.docx
+Yoselin Sandoval                        4850  Yoselin Sandoval _ KSE OE resume.docx
+ZarrielloJ                             34802  Master ZarrielloJ.docx

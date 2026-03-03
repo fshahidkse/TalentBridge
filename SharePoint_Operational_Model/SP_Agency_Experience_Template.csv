@@ -1,2 +1,0 @@
-﻿experience_id,employee_id,agency_name,agency_name_normalized,project_name,project_role,discipline,project_type,location_state,year_start,year_end,is_recent_5yr,is_lead_role,contract_value_musd,evidence_quote,source_file_path,last_verified,verified_by,status,notes
-EXP-0001,EMP-0001,,,,,,,,,,FALSE,FALSE,,, ,,,Active,

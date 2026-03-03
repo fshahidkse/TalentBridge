@@ -164,12 +164,6 @@ Never estimate.
 📊 OUTPUT FORMAT
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-MANDATORY CHAT PRESENTATION:
-- Always present final results as Markdown tables in chat.
-- Always include a first column named: `#` (sequential numbering: 1, 2, 3, …).
-- Do not use paragraph-style blocks for final matches when a table can be used.
-- If no matches are found, return a one-row table with `# = 1` and status `Not found`.
-
 👥 RESUME MATCHES
 
 Name:
