@@ -11,13 +11,16 @@ venv/
 Thumbs.db
 *.tmp
 *.log
-
-# Generated outputs
-Resume 08152025/KSE_RESUME_DATABASE/
 *.parquet
-*.jsonl
+
+# Office lock files
 ~$*
 
-# Exclude large PDS folders
-Completed PDS 09082025/
-Incomplete PDS 09172025/
+# Generated KB outputs (large — upload directly to GPT Knowledge, not git)
+data/kb/*.jsonl
+data/kb/*.md
+
+# Large source folders — tracked via SharePoint, not git
+data/source/Completed PDS 09082025/
+data/source/Incomplete PDS 09172025/
+data/source/Resume 08152025/KSE_RESUME_DATABASE/

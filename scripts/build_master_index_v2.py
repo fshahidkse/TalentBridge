@@ -41,8 +41,9 @@ except ImportError:
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-RESUME_FOLDER = r"c:\Users\KSE\Desktop\TalentBridge\Resume 08152025"
-OUT_DIR       = r"c:\Users\KSE\Desktop\TalentBridge"
+_ROOT         = Path(__file__).resolve().parent.parent
+RESUME_FOLDER = str(_ROOT / "data" / "source" / "Resume 08152025")
+OUT_DIR       = str(_ROOT / "data" / "index")
 RESUME_EXTS   = {".docx", ".pdf", ".rtf"}
 W_NS          = "{http://schemas.openxmlformats.org/wordprocessingml/2006/main}"
 NOW           = datetime.now().strftime("%Y-%m-%d %H:%M")
